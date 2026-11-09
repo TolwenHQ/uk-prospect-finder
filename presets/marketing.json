@@ -1,0 +1,7 @@
+{
+  "name": "marketing",
+  "description": "For marketers: established professional and premises-based businesses that have a website, weakest sites first.",
+  "sectors": ["dentist", "clinic", "vet", "legal", "accountancy", "estate-agent", "architect", "hotel", "guest-house", "fitness", "car-repair", "childcare"],
+  "age": "3-25",
+  "rank": "weak-site-first"
+}

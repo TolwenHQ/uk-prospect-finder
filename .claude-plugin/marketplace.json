@@ -1,0 +1,18 @@
+{
+  "name": "tolwen",
+  "description": "Claude Code plugins from Tolwen.",
+  "owner": {
+    "name": "Tolwen",
+    "url": "https://github.com/TolwenHQ"
+  },
+  "plugins": [
+    {
+      "name": "tolwen-prospect-finder",
+      "source": "./",
+      "description": "Tolwen Prospect Finder: find active UK limited companies with no website or a weak one, from Companies House.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["companies-house", "uk", "lead-generation"]
+    }
+  ]
+}

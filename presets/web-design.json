@@ -1,0 +1,7 @@
+{
+  "name": "web-design",
+  "description": "For web designers: customer-facing trades and local services, ranked by how much their web presence needs work.",
+  "sectors": ["plumbing", "electrical", "roofing", "building", "joinery", "decorating", "glazing", "landscaping", "cleaning", "hair", "wellbeing", "dog-grooming", "fitness", "restaurant", "takeaway", "guest-house", "florist", "driving-school"],
+  "age": "1-20",
+  "rank": "website-need"
+}

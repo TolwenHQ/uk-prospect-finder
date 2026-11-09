@@ -1,0 +1,7 @@
+{
+  "name": "commercial-cleaning",
+  "description": "For commercial cleaners: businesses with premises to clean (surgeries, clinics, nurseries, gyms, offices), longest-established first.",
+  "sectors": ["dentist", "clinic", "vet", "childcare", "fitness", "hotel", "legal", "accountancy", "estate-agent", "architect", "consultancy", "recruitment", "car-repair"],
+  "age": "2-40",
+  "rank": "oldest"
+}

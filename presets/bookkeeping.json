@@ -1,0 +1,7 @@
+{
+  "name": "bookkeeping",
+  "description": "For bookkeepers and accountants: limited companies under 18 months old (first accounts and confirmation statement ahead), newest first. The website check is shown for context only.",
+  "sectors": ["plumbing", "electrical", "building", "joinery", "decorating", "cleaning", "hair", "restaurant", "takeaway", "catering", "photography", "consultancy", "it-services", "marketing", "removals"],
+  "age": "0-1.5",
+  "rank": "newest"
+}

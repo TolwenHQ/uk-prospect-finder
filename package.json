@@ -1,0 +1,20 @@
+{
+  "name": "tolwen-prospect-finder",
+  "version": "1.0.0",
+  "description": "Tolwen Prospect Finder: find active UK limited companies in an area and sector, and flag which have no website or a weak one. A Claude Code plugin with no dependencies beyond Node.js.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "author": "Tolwen",
+  "homepage": "https://github.com/TolwenHQ/uk-prospect-finder",
+  "repository": { "type": "git", "url": "https://github.com/TolwenHQ/uk-prospect-finder.git" },
+  "bugs": { "url": "https://github.com/TolwenHQ/uk-prospect-finder/issues" },
+  "keywords": ["claude-code", "claude-code-plugin", "ai-agents", "lead-generation", "uk", "companies-house"],
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node scripts/find-prospects.mjs --demo",
+    "find": "node scripts/find-prospects.mjs",
+    "setup": "node scripts/setup-key.mjs"
+  }
+}

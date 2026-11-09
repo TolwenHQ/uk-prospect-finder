@@ -1,0 +1,10 @@
+# Your API key: never commit
+.env
+.env.*
+!.env.example
+# Your results (they contain business data you collected)
+prospects/
+prospects-*.csv
+prospects-*.md
+node_modules/
+*.log

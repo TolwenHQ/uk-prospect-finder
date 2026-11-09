@@ -1,0 +1,14 @@
+{
+  "name": "tolwen-prospect-finder",
+  "displayName": "Tolwen Prospect Finder",
+  "version": "1.0.0",
+  "description": "Finds active UK limited companies in an area and sector from Companies House, and flags which ones have no website or a weak one. Writes a ranked CSV and a readable summary.",
+  "author": {
+    "name": "Tolwen",
+    "url": "https://github.com/TolwenHQ"
+  },
+  "homepage": "https://github.com/TolwenHQ/uk-prospect-finder",
+  "repository": "https://github.com/TolwenHQ/uk-prospect-finder",
+  "license": "MIT",
+  "keywords": ["companies-house", "uk", "lead-generation", "prospecting", "website-audit", "pecr"]
+}
